@@ -18,6 +18,3 @@ will start debian from Nanopc.
 
 uname -a
 Linux Exynos-4412-Debian 3.8.13.16 #8 SMP PREEMPT Wed Apr 9 17:03:15 CST 2014 armv7l GNU/Linux
-
-
-
